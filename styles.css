@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.navbar{
+  background-color: #B70404 !important;
+  margin: 0;
+  padding-left: 2%;
+}
+
+.brandname{
+  margin: none;
+  font-family: 'Lobster', cursive;
+  font-size: 120%;
+  color: white;
+}
+
+.brandname :hover{
+  color: #FCAEAE; 
+} 
+
+.logo{
+  width: 17%;
+  margin: none;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.bg-dark {
+  background-color: black !important;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  color: #ff206e;
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+}
+
+h3{
+  display: inline;
+}
+
+p {
+  margin-top: 15%;
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.btn{
+  display: block;
+  margin: 5% auto 5% auto;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+
+}
+
